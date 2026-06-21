@@ -1,8 +1,8 @@
-# 👋 Welcome to typace-team's World!
-
 <p align="center">
   <img src="/PROFILE.png" alt="Welcome Banner" width="100%" />
 </p>
+
+# 👋 Welcome to typace-team's World!
 
 ## 🚀 About Me
 - 🎓 **Junior High School Student (Grade 9)** based in **Shanghai, China**.
