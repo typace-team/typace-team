@@ -27,7 +27,7 @@ Here are some of the web applications, blogs, and frameworks I've built:
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terryzhangxr&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=typace-team&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🌍 Connect with Me
