@@ -2,7 +2,7 @@
   <img src="/PROFILE.png" alt="Welcome Banner" width="100%" />
 </p>
 
-# 👋 Welcome to typace-team's World!
+# 👋 Welcome to typace-team's World! ![Dream Began](https://img.shields.io/badge/The_Dream_Began-Jan_31,_2025-blueviolet?style=for-the-badge&logo=starship&logoColor=white)
 
 ## 🚀 About Me
 - 🎓 **Junior High School Student (Grade 9)** based in **Shanghai, China**.
@@ -21,6 +21,10 @@
 ## 🌐 Web Projects & Showcase
 Here are some of the web applications, blogs, and frameworks I've built:
 - 📰 **Typace Blog Framework**: [www.mrche.top](https://www.mrche.top)
+
+### 🌟 Milestone
+> *"Where it all began..."* 
+> 📅 **Jan 31, 2025**
 
 ## 📊 GitHub Stats
 <p align="center">
