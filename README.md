@@ -32,15 +32,12 @@ Here are some of the web applications, blogs, and frameworks I've built:
 
 ## 🌍 Connect with Me
 Find my content and tutorials on various platforms:
-- 📺 **Bilibili**: [Terry-zhang同学](https://space.bilibili.com/3546622533306643)
-- 💡 **Zhihu**: [Terry-zhang同学](https://www.zhihu.com/people/terry-zhang-55)
-- 📝 **CSDN**: [terryzhang404](https://blog.csdn.net/terryzhangxr)
+- 📺 **Bilibili (@che-ui)**: [车易达CHEYIDA](https://space.bilibili.com/3461581341985004)
+- 💡 **Zhihu (@terryzhangxr)**: [Terry-zhang同学](https://www.zhihu.com/people/terry-zhang-55)
+- 📝 **CSDN (@terryzhangxr)**: [terryzhang404](https://blog.csdn.net/terryzhangxr)
 
 ## 📬 Contact
-- ✉️ **Email**: [zhang@mrzxr.com](mailto:zhang@mrzxr.com)
-- 💬 **WeChat**: 
-  <br>
-  <img src="https://github.com/typace-team/typace-team/raw/main/wechat.png" alt="WeChat QR Code" width="150" />
+- ✉️ **Email**: [liyin_iup4wfsweb@aka.yeah.net](mailto:liyin_iup4wfsweb@aka.yeah.net)
 
 ---
 <p align="center">
