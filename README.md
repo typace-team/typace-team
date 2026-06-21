@@ -7,8 +7,8 @@
 ## 🚀 About Me
 - 🎓 **Junior High School Student (Grade 9)** based in **Shanghai, China**.
 - 💻 Passionate about **Python** and **Web Development** (HTML, CSS, JavaScript).
-- 🌱 Currently working on: **Python ChatterBot model training** & **Portfolio frontend development**.
-- ⚡ Fun fact: I love building frameworks, training bots, and exploring new web technologies!
+- 🌱 Currently working on: **Next-Gen In-House Lightweight AI Model** & **Typace Blog Framework**.
+- ⚡ Sexy fact: I love building frameworks, training bots, and exploring new web technologies!
 
 ## 🛠️ Tech Stack
 <p align="left">
@@ -20,10 +20,7 @@
 
 ## 🌐 Web Projects & Showcase
 Here are some of the web applications, blogs, and frameworks I've built:
-- 📝 **Personal Blog**: [www.mrzxr.com](http://www.mrzxr.com)
-- 📸 **Photography Portfolio**: [portfolio.mrzxr.com](https://portfolio.mrzxr.com)
-- 📰 **Typace Blog Framework**: [typace.mrzxr.com](https://typace.mrzxr.com)
-- 💬 **Rido Community Forum**: [rrdd.top](https://rrdd.top)
+- 📰 **Typace Blog Framework**: [www.mrche.top](https://www.mrche.top)
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -33,8 +30,6 @@ Here are some of the web applications, blogs, and frameworks I've built:
 ## 🌍 Connect with Me
 Find my content and tutorials on various platforms:
 - 📺 **Bilibili (@che-ui)**: [车易达CHEYIDA](https://space.bilibili.com/3461581341985004)
-- 💡 **Zhihu (@terryzhangxr)**: [Terry-zhang同学](https://www.zhihu.com/people/terry-zhang-55)
-- 📝 **CSDN (@terryzhangxr)**: [terryzhang404](https://blog.csdn.net/terryzhangxr)
 
 ## 📬 Contact
 - ✉️ **Email**: [liyin_iup4wfsweb@aka.yeah.net](mailto:liyin_iup4wfsweb@aka.yeah.net)
