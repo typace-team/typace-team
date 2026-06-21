@@ -1,7 +1,7 @@
 # 👋 Welcome to typace-team's World!
 
 <p align="center">
-  <img src="https://github.com/typace-team/typace-team/raw/main/header.gif" alt="Welcome Banner" width="100%" />
+  <img src="/repo-banner.png" alt="Welcome Banner" width="100%" />
 </p>
 
 ## 🚀 About Me
