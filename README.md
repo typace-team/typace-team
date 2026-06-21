@@ -1,44 +1,48 @@
-<p align="center"> 
-  <a href="https://www.mrche.top">
-    <img src="https://github.com/user-attachments/assets/bc8ec403-c1ca-41de-be3c-62dadc48d895">
-  </a>
+# 👋 Welcome to typace-team's World!
+
+<p align="center">
+  <img src="https://github.com/typace-team/typace-team/raw/main/header.gif" alt="Welcome Banner" width="100%" />
 </p>
 
-# WELOCME TO TERRYZHANG'S WORLD!
-中国 上海 初三学生
-      
-python / HTML,JS,CSS 项目构建&开发
+## 🚀 About Me
+- 🎓 **Junior High School Student (Grade 9)** based in **Shanghai, China**.
+- 💻 Passionate about **Python** and **Web Development** (HTML, CSS, JavaScript).
+- 🌱 Currently working on: **Python ChatterBot model training** & **Portfolio frontend development**.
+- ⚡ Fun fact: I love building frameworks, training bots, and exploring new web technologies!
 
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-- 🔭 主攻语言：py html，css，js
-- 🌱 正在开发项目：python chatterbot模型训练 & portfolio个人影集前端开发
+## 🌐 Web Projects & Showcase
+Here are some of the web applications, blogs, and frameworks I've built:
+- 📝 **Personal Blog**: [www.mrzxr.com](http://www.mrzxr.com)
+- 📸 **Photography Portfolio**: [portfolio.mrzxr.com](https://portfolio.mrzxr.com)
+- 📰 **Typace Blog Framework**: [typace.mrzxr.com](https://typace.mrzxr.com)
+- 💬 **Rido Community Forum**: [rrdd.top](https://rrdd.top)
 
-  
-## 网页作品：
-  
-  个人博客：www.mrzxr.com
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terryzhangxr&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-  portfolio： [portfolio.mrzxr.com](https://portfolio.mrzxr.com)
+## 🌍 Connect with Me
+Find my content and tutorials on various platforms:
+- 📺 **Bilibili**: [Terry-zhang同学](https://space.bilibili.com/3546622533306643)
+- 💡 **Zhihu**: [Terry-zhang同学](https://www.zhihu.com/people/terry-zhang-55)
+- 📝 **CSDN**: [terryzhang404](https://blog.csdn.net/terryzhangxr)
 
-  typace博客框架： [typace.mrzxr.com](https://typace.mrzxr.com)
-  
-  rido community forum: [rrdd.top](https://rrdd.top)
-  
+## 📬 Contact
+- ✉️ **Email**: [zhang@mrzxr.com](mailto:zhang@mrzxr.com)
+- 💬 **WeChat**: 
+  <br>
+  <img src="https://github.com/typace-team/typace-team/raw/main/wechat.png" alt="WeChat QR Code" width="150" />
 
-## 项目语言统计
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=terryzhangxr)
-
-
-## 社交媒体
-- bilibili：[Terry-zhang同学](https://space.bilibili.com/3546622533306643?spm_id_from=333.1007.0.0%2F)
-- 知乎：[Terry-zhang同学](https://www.zhihu.com/people/terry-zhang-55)
-- CSDN：[terryzhang404](https://blog.csdn.net/terryzhangxr?ops_request_misc=%7B%22request%5Fid%22%3A%2271b153c60ab1e9800ce63c32b6c4bbe0%22%2C%22scm%22%3A%2220140713.130064515..%22%7D&request_id=71b153c60ab1e9800ce63c32b6c4bbe0&biz_id=206&utm_medium=distribute.pc_search_result.none-task-user-null-1-173919439-null-null.nonecase&utm_term=terryzhang404&spm=1018.2226.3001.4351)
-
-  
-## 联系我：
-- Email：[zhang@mrzxr.com](mailto:zhang@mrzxr.com)
-
-- wechat QR码：
-     
-![image](https://github.com/user-attachments/assets/d621357a-149d-4359-b938-ad63d1bf565b)
+---
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/typace-team">typace-team</a> | Official account created by <a href="https://github.com/che-ui">@che-ui</a></i>
+</p>
