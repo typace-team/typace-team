@@ -42,7 +42,7 @@ All information has been hidden for privacy protection.
 ## 📬 Contact
 - ✉️ **Email**: [liyin_iup4wfsweb@aka.yeah.net](mailto:liyin_iup4wfsweb@aka.yeah.net)
 
-# ✏️ What's more, Beyond Code: Inkwire, Typace, and the Fractured Reality of a Chinese "AI Model School" Student
+# ✏️ What's more, Beyond Code
 
 By the way, the reason typace's code was difficult to adjust and read was that I personally didn't pay much attention to details during early development. Later, I repeatedly communicated with @terryzhangxr about this, but he was negligent in management, too lazy to make adjustments, and even demanded full ownership of the project from me. 
 
